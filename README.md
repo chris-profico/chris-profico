@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @chris-profico!
+- 🚀 I started to learn and practice programming on November 6, 2015.
+- 💪 I have used php, Ruby (RoR), Javascipts, Python (Django), Dart (Flutter) in my different projects.
+- 🌱 I’m currently learning Unity.
+- 🎸 I love the Rock, Syntwave, 80s pop.
